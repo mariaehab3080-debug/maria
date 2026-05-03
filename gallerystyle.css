@@ -108,6 +108,22 @@ footer{
     background-color:#D4B483 ;
     text-align: center;
 }
+@media (max-width: 1300px) {
+}
 
+@media (min-width: 371px) and (max-width: 1300px) {
+}
+
+@media (min-width: 577px) and (max-width: 1300px) {
+}
+
+@media (min-width: 769px) and (max-width: 1300px) {
+}
+
+@media (min-width: 992px) and (max-width: 1300px) {
+}
+
+@media (min-width: 1181px) and (max-width: 1300px) {
+}
 
 
